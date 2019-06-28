@@ -582,6 +582,9 @@
  gemsDESC:0 "Since the earliest times, stones such as rubies, sapphires, diamonds, emeralds, jade, or pearls, have been used in jewelry and ceremonial attire. For centuries the only source of diamonds in the world were the fabled mines at Golconda. While not all precious stones are as rare, they are all highly sought after commodities."
  coal:0 "Coal"
  coalDESC:0 "Coal has a long history as a source of fuel, but it is not until the invention and dissemination of the practical Steam Engine that demand would take off. As the Industrial Revolution swept across Europe, the use and export or import of coal would become a major business and an integral part of a modern economy."
+ # Sunless Goods
+ souls:0 "Souls"
+ soulsDESC:0 "Clinking, glowing, pleading."
  NONE:0 " "
  REGIMENT_SIZE:0 "§Y$SIZE$§! men\n"
  REGIMENT_STRENGTH:0 "Regiment Strength: §Y$VALUE$§W"
